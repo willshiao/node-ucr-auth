@@ -1,0 +1,27 @@
+{
+  "name": "ucr-auth",
+  "version": "1.0.0",
+  "description": "A NPM package that makes it easy to programitcally use UC Riverside web services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willshiao/node-ucr-auth.git"
+  },
+  "keywords": [
+    "UC",
+    "Riverside",
+    "UCR",
+    "authentication",
+    "bot",
+    "scraping"
+  ],
+  "author": "William Shiao <willshiao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willshiao/node-ucr-auth/issues"
+  },
+  "homepage": "https://github.com/willshiao/node-ucr-auth#readme"
+}
