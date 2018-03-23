@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/willshiao/node-ucr-auth/issues"
   },
-  "homepage": "https://github.com/willshiao/node-ucr-auth#readme"
+  "homepage": "https://github.com/willshiao/node-ucr-auth#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "tough-cookie": "^2.3.4"
+  }
 }
